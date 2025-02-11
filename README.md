@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Dr. Loveleen Gaur! 
+# 👋 Hi, I'm Dr. Loveleen Gaur!
+
 
 🚀 **AI Researcher | Generative & Agentic AI Enthusiast | Tech Speaker**  
 💡 Passionate about building AI-driven solutions in Healthcare, and business.
