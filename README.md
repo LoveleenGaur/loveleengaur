@@ -26,3 +26,4 @@ Featured Project: Finance Agent
 
 An AI-powered financial assistant built with agentic AI and Agno (Phidata), covering predictive stock analysis, risk assessment, and investment strategy support.
 
+**Open to research collaborations in AI, machine learning, and open source. If a project here is useful to you, a star is appreciated.**
