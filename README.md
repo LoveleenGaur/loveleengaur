@@ -1,50 +1,33 @@
-# 👋 Hi, I'm Dr. Loveleen Gaur!
+Dr. Loveleen Gaur
+
+AI Researcher · Educator · Author
+
+I build and study AI systems for healthcare and business, with a focus on generative AI, agentic AI, and responsible AI governance. Over two decades across research, teaching, and academic publishing.
+
+IEEE Senior Member · Elsevier / Stanford Top 2% Scientist (2024, 2025) · 150+ publications · 5,000+ citations
 
 
-🚀 **AI Researcher | Generative & Agentic AI Enthusiast | Tech Speaker**  
-💡 Passionate about building AI-driven solutions in Healthcare, and business.
----
+About : AI researcher and educator with 20+ years across teaching, research, and publishing
+Research in trustworthy AI, healthcare AI, explainability, and responsible AI governance
+Author and editor of multiple books with CRC Press, Taylor & Francis, and Elsevier
+Currently writing Agentic Artificial Intelligence in Healthcare (Elsevier)
 
-## 🔥 Featured Project: Finance Agent  
-🚀 AI-powered financial assistant using **Agentic AI & Agno (Phidata)**  
-🔍 **Predictive stock analysis, risk assessment, and AI-driven investment strategies**  
 
-🔗 **Check it out here: [Finance Agent Repo](https://github.com/LoveleenGaur/finance-agent)**  
+Research and Focus Areas
 
----
 
-## 📌 About Me  
-- 🎓 **AI Researcher & Educator**
-- 🔬 Exploring **Generative AI, Machine Learning, and NLP**
-- 📊 Enthusiast in **Agentic AI, Generative AI and Predictive Modeling**
-- 🎤 Public Speaker on **AI & Ethical AI Systems**
+Generative AI and large language models
+Agentic AI and autonomous systems
+Machine learning, NLP, and predictive modeling
+Responsible and ethical AI governance
 
----
 
-## 🌐 Connect with Me
+Featured Project: Finance Agent
 
-- **LinkedIn:** [Dr. Loveleen Gaur](https://www.linkedin.com/in/loveleen-gaur-ba53746/)
-- **ResearchGate:** [Dr. Loveleen Gaur](https://www.researchgate.net/profile/Loveleen-Gaur)
-- **Google Scholar:** [Dr. Loveleen Gaur](https://scholar.google.com/citations?user=YourGoogleScholarID)
+An AI-powered financial assistant built with agentic AI and Agno (Phidata), covering predictive stock analysis, risk assessment, and investment strategy support.
 
----
+View the repository
 
-## ⚡ Tech Stack  
-💻 Python | TensorFlow | PyTorch | OpenAI | Agno  
-📊 Generative AI | ML Model Deployment  
-📡 API Development | Data Science | NLP  
+Selected Projects
 
----
-
-### 🚀 Latest Projects  
-- 🧠 **Finance Agent** – AI-powered stock & risk assessment tool  
-- 🤖 **NLP Chatbot** – Advanced chatbot using transformers  
-- 🔬 **Healthcare AI** – Predictive analytics for patient risk assessment  
-
----
-
-### 🎯 How to Support My Work  
-💡 If you like my work, feel free to **⭐ Star this repository**!  
-📢 Open to collaborations on **AI, Deep learning, and Open Source projects**.  
-
----
+ProjectDescriptionFinance AgentAgentic AI assistant for stock and risk assessmentNLP ChatbotConversational system built on transformer modelsHealthcare AIPredictive analytics for patient risk assessment
