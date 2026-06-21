@@ -16,9 +16,9 @@ Currently writing Agentic Artificial Intelligence in Healthcare (Elsevier)
 **Research and Focus Areas**
 
 
-Generative AI and large language models
-Agentic AI and autonomous systems
-Machine learning, NLP, and predictive modeling
+Generative AI and large language models,
+Agentic AI and autonomous systems,
+Machine learning, NLP, and predictive modeling,
 Responsible and ethical AI governance
 
 
